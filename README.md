@@ -1,4 +1,4 @@
-# MarieProject
+# aws-web-project
 
 ## Description
 Static website hosted on Amazon S3, styled with HTML and custom CSS. The site features a simple, centered layout with a welcoming "Hello World!" message and an image, demonstrating fundamental web development skills.
